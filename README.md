@@ -1,7 +1,7 @@
 # clogging
 clogging simulation code:  from Hong et al., Phys Rev E 96, 062605 (2017).  Written in the IDL programming language, by Eric R. Weeks.  This implements the Durian bubble model introduced in Durian, PRL (1995) and slightly modified in Tewari et al., Phys. Rev. E 60, 4385 (1999).  An additional force is added to represent the viscous drag force from the walls; see Hong et al. for details.
 
-For a copy of the original paper or simulatino data from the article, go to Eric's lab website:  http://www.physics.emory.edu/~weeks/lab/
+For a copy of the original paper or simulation data from the article, go to Eric's lab website:  http://www.physics.emory.edu/~weeks/lab/
 
 =======================================
 
